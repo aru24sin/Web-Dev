@@ -10,6 +10,8 @@ body {
 
 h1 {
     color: dodgerblue;
+    border: #2e3236;
+    border-color: dodgerblue;
     font-style: italic;
     text-align: center;
 }
