@@ -6,3 +6,5 @@ for the project.
 2) Have a consistent communication lead with the client
 3) Create a review of the meeting with the client and review with the client
 4) Here is what happened, here is how it changed, here is the new plan
+5) Can start programming as soon as we get the use cases
+6) Create a proper schedule for features that can be completed one by one
