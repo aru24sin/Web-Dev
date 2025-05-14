@@ -1,0 +1,8 @@
+backlog is the amount of features the client has requested
+will have to readjust due to the client thinking of new features
+for the project.
+
+1) Establish the list early
+2) Have a consistent communication lead with the client
+3) Create a review of the meeting with the client and review with the client
+4) Here is what happened, here is how it changed, here is the new plan
